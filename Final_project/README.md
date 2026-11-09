@@ -191,3 +191,4 @@ Admin:
 - Product images are loaded from Unsplash (requires internet).
 - Card payments are simulated (no real provider).
 - Change admin credentials after first login in production.
+wkncdncndwwendekdneknd
